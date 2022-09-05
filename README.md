@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mikondiwa
+- 👋 Hi, I’m Micah Ondiwa
 - 👀 I’m a junior software developer. 
 - 🌱 I’m currently learning software Engineering with ALX.
 - 💞️ I’m looking to collaborate on web development projects, especially back-end development projects. 
