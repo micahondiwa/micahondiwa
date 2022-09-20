@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Micah Ondiwa
-- 👀 I’m a junior software developer. 
+- 👀 I’m a software developer. 
 - 🌱 I’m currently learning software Engineering with ALX.
 - 💞️ I’m looking to collaborate on web development projects, especially back-end development projects. 
 - 📫 How to reach me: +254706613212, or mikondiwa@gmail.com
