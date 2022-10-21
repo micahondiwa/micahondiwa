@@ -5,6 +5,6 @@
 - 📫 How to reach me: +254720963680, or mikondiwa@gmail.com
 
 <!---
-Mikondiwa/Mikondiwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mikondiwa/Mikondiwaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
