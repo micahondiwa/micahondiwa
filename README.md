@@ -6,6 +6,6 @@ Mobile: +254720963680
 Email: mikondiwaa@gmail.com
 
 <!---
-Mikondiwa/Mikondiwaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+micahondiwa/micahondiwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
