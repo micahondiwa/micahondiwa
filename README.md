@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Micah Ondiwa
-- 👀 I’m a software developer. 
-- 🌱 I’m currently learning software Engineering with ALX.
-- 💞️ I’m looking to collaborate on web development projects, especially back-end development projects. 
-- 📫 How to reach me: +254720963680, or mikondiwaa@gmail.com
+Hi, I’m Micah Ondiwa,a software developer. I’m currently learning software Engineering with Holberton School through ALX. I’m looking to collaborate on web development projects, especially back-end development projects. 
+
+Contacts:
+
+Mobile: +254720963680
+Email: mikondiwaa@gmail.com
 
 <!---
 Mikondiwa/Mikondiwaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
