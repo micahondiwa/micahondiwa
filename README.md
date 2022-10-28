@@ -3,7 +3,7 @@ Hi, I’m Micah Ondiwa,a software developer. I’m currently learning software E
 Contacts:
 
 Mobile: +254720963680
-Email: mikondiwaa@gmail.com
+Email: micah.oketch.ondiwa@gmail.com
 
 <!---
 micahondiwa/micahondiwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
