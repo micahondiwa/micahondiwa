@@ -1,4 +1,4 @@
-Hi, I’m Micah Ondiwa,a software developer. I’m currently learning software Engineering with Holberton School through ALX. I’m looking to collaborate on web development projects, especially back-end development projects. 
+Hi, I’m Micah Ondiwa,a software developer. I’m currently learning Full-Stack software Engineering at [ALX Africa](https://www.alxafrica.com/software-engineering-2022/), a course offered by [Holberton School](https://www.holbertonschool.com/). 
 
 Contacts:
 
