@@ -1,4 +1,9 @@
+Hi, I am [Micah Ondiwa](https://www.micahondiwa.com/), a software developer. I'm currenttly studying Full Stack Software Engineering at [ALX Africa](https://www.alxafrica.com/software-engineering-2022), a course offerred by [Holberton School](https://www.holbertonschool.com/).
+
+Telephone: +254720963680
+Email: micah.oketch.ondiwa@gmail.com
+
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.micahondiwa.com/#contact)
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)]([https://www.python.org/](micahondiwa/alx-higher_level_programming))
+
 
 
