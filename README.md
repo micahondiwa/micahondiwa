@@ -1,6 +1,6 @@
 I'm currenttly studying Full Stack Software Engineering at [ALX Africa](https://www.alxafrica.com/software-engineering-2022), a course offerred by [Holberton School](https://www.holbertonschool.com/).
 
-### :fire: My Stats :
+### :fire: My Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=micahondiwa&theme=vision-friendly-dark&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
