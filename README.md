@@ -1,7 +1,7 @@
 
 
 - Studies Software Engineering at [ALX Africa](https://www.alxafrica.com/software-engineering-2022), a course offerred by [Holberton School](https://www.holbertonschool.com/).
-- Starting Software Engineering Intership at [IBM Research | Africa](https://research.ibm.com/labs/africa) in June, 2023. 
+- Starting Software Engineering Internship at [IBM Research | Africa](https://research.ibm.com/labs/africa) in June, 2023. 
 
 ### :fire: My Stats
 
