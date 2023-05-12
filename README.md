@@ -1,7 +1,6 @@
 
 
 - Studies Software Engineering at [ALX Africa](https://www.alxafrica.com), a course offerred by [Holberton School](https://www.holbertonschool.com/).
-- 
 - proud IBMer
 
 
