@@ -1,5 +1,4 @@
-
-
+- Agile Software Engineer - DevOps
 - Studies Software Engineering at [ALX Africa](https://www.alxafrica.com), a course offerred by [Holberton School](https://www.holbertonschool.com/).
 - Proud [IBMer](https://www.youtube.com/@LifeAtIBM) at [IBM Research | Africa](https://research.ibm.com/labs/africa)
 
