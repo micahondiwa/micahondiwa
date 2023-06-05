@@ -1,5 +1,5 @@
 - Agile Software Engineer.
-- Proud [IBMer](https://www.youtube.com/@LifeAtIBM) at [IBM Research | Africa](https://research.ibm.com/labs/africa)
+- [IBMer](https://www.youtube.com/@LifeAtIBM) at [IBM Research | Africa](https://research.ibm.com/labs/africa)
 - Studies Software Engineering at [ALX Africa](https://www.alxafrica.com), a course offerred by [Holberton School](https://www.holbertonschool.com/).
 
 
