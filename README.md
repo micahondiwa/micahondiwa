@@ -1,6 +1,6 @@
 - Agile Software Engineer.
 
-- [ALX Africa](https://www.alxafrica.com/fellowship-community/) Fellow - Alx Sofware Engineering- Backend, powered by by [Holberton School](https://www.holbertonschool.com/).
+- [ALX Africa](https://www.alxafrica.com/fellowship-community/) Fellow || Alx Software Engineering (Backend), powered by [Holberton School](https://www.holbertonschool.com/).
 
 
 
