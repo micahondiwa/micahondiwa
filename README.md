@@ -1,6 +1,6 @@
 - Agile Software Engineer.
 
-- Studies Software Engineering at [ALX Africa](https://www.alxafrica.com), a course offerred by [Holberton School](https://www.holbertonschool.com/).
+- [ALX Africa](https://www.alxafrica.com) Fellow - Alx Sofware Engineering- Backend, powered by by [Holberton School](https://www.holbertonschool.com/).
 
 
 
