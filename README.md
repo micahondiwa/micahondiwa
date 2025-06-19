@@ -1,4 +1,3 @@
-- Extern [IBM Research Africa](https://research.ibm.com/blog/africa-lab-ten-years-ibm) - 2023
 - Agile Software Engineer.
 
 - [ALX Africa](https://www.alxafrica.com/fellowship-community/) Fellow || Alx Software Engineering (Backend), powered by [Holberton School](https://www.holbertonschool.com/).
