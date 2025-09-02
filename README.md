@@ -1,6 +1,6 @@
 - Python Full Stack (Django + React) ML/AI Software Engineer with over 5 years experience based in Nairobi, Kenya.
 - I love memes.
-- micahondiwa.github.io/micahondiwa.com/
+- [Website](micahondiwa.github.io/micahondiwa.com/)
 
 - [ALX Africa](https://www.alxafrica.com/fellowship-community/) Fellow || Alx Software Engineering (Backend), powered by [Holberton School](https://www.holbertonschool.com/).
 
