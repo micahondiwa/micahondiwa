@@ -11,4 +11,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micahondiwa&layout=compact)](https://github.com/micahondiwa/micahondiwa)
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.micahondiwa.com/#contact)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.micahondiwa.com/)
+
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=micahondiwa)
+
