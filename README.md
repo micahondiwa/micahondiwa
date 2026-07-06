@@ -1,8 +1,8 @@
-- Python Full Stack (Django + React) ML/AI Software Engineer with over 5 years experience based in Nairobi, Kenya.
-- I love memes.
+Backend-focused Software Engineer with experience building scalable data pipelines, ML-enabled systems, and analytics platforms in production environments. Strong background in financial engineering, risk modeling, and applied machine learning.
+
 - [Portfolio Website](https://micahondiwa.com/)
 
-- [ALX Africa](https://www.alxafrica.com/fellowship-community/) Fellow || Alx Software Engineering (Backend), powered by [Holberton School](https://www.holbertonschool.com/).
+- [ALX Africa](https://www.alxafrica.com) fellow || Alx Software Engineering (Backend), powered by [Holberton School](https://www.holbertonschool.com/).
 
 
 
